@@ -1,10 +1,8 @@
-# Proyecto Urban Grocers 
+# Proyecto: Automatización de Rutas Urbanas
 **Autor:** Alonso Hernández González
 **Fecha:** Febrero 2025  
 **Cohorte:** 20  
 **Sprint:** 8  
-
-# Proyecto: Automatización de Rutas Urbanas
 
 ## Descripción
 Este proyecto utiliza Selenium para automatizar la interacción con una página web de solicitud de taxis urbanos. Permite realizar acciones como ingresar direcciones de origen y destino, seleccionar la tarifa Comfort, agregar un número de teléfono y tarjeta de crédito, solicitar artículos adicionales y confirmar la búsqueda de un taxi.
